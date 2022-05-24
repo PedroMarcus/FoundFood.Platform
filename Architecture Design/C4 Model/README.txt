@@ -1,0 +1,2 @@
+Link C4 article: https://www.infoq.com/br/articles/C4-architecture-model/
+Link about 5 things that all architect must know about the developement of software: https://www.infoq.com/br/articles/architecture-five-things/
